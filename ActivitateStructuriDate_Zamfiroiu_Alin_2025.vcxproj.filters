@@ -13,10 +13,67 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="Source Files\Surse lucrate la seminar">
+      <UniqueIdentifier>{62043018-9510-4ea6-a1fc-a295cc1b8dc1}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Seminar01.c">
       <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Seminar03.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Laborator01.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Surse lucrate la seminar\1053_seminar01.c">
+      <Filter>Source Files\Surse lucrate la seminar</Filter>
+    </ClCompile>
+    <ClCompile Include="Surse lucrate la seminar\1054_seminar01.c">
+      <Filter>Source Files\Surse lucrate la seminar</Filter>
+    </ClCompile>
+    <ClCompile Include="Surse lucrate la seminar\1057_seminar01.c">
+      <Filter>Source Files\Surse lucrate la seminar</Filter>
+    </ClCompile>
+    <ClCompile Include="Laborato02.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Surse lucrate la seminar\1053_seminar02.c">
+      <Filter>Source Files\Surse lucrate la seminar</Filter>
+    </ClCompile>
+    <ClCompile Include="Surse lucrate la seminar\1054_seminar02.c">
+      <Filter>Source Files\Surse lucrate la seminar</Filter>
+    </ClCompile>
+    <ClCompile Include="Surse lucrate la seminar\1057_seminar02.c">
+      <Filter>Source Files\Surse lucrate la seminar</Filter>
+    </ClCompile>
+    <ClCompile Include="Surse lucrate la seminar\Rec_seminar02.c">
+      <Filter>Source Files\Surse lucrate la seminar</Filter>
+    </ClCompile>
+    <ClCompile Include="Laborator03.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Surse lucrate la seminar\1053_seminar03.c">
+      <Filter>Source Files\Surse lucrate la seminar</Filter>
+    </ClCompile>
+    <ClCompile Include="Surse lucrate la seminar\1054_seminar03.c">
+      <Filter>Source Files\Surse lucrate la seminar</Filter>
+    </ClCompile>
+    <ClCompile Include="Surse lucrate la seminar\1057_seminar03.c">
+      <Filter>Source Files\Surse lucrate la seminar</Filter>
+    </ClCompile>
+    <ClCompile Include="Surse lucrate la seminar\Rec_seminar03.c">
+      <Filter>Source Files\Surse lucrate la seminar</Filter>
+    </ClCompile>
+    <ClCompile Include="Source.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Laborator04.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ID_17martie_onlineSuplimentar.c">
+      <Filter>Source Files\Surse lucrate la seminar</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
