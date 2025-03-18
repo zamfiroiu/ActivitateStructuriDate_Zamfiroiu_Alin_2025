@@ -127,25 +127,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="ID_17martie_onlineSuplimentar.c" />
-    <ClCompile Include="Laborato02.c" />
-    <ClCompile Include="Laborator01.c" />
-    <ClCompile Include="Laborator03.c" />
-    <ClCompile Include="Laborator04.c" />
     <ClCompile Include="Seminar01.c" />
-    <ClCompile Include="Seminar03.c" />
-    <ClCompile Include="Source.c" />
-    <ClCompile Include="Surse lucrate la seminar\1053_seminar01.c" />
-    <ClCompile Include="Surse lucrate la seminar\1053_seminar02.c" />
-    <ClCompile Include="Surse lucrate la seminar\1053_seminar03.c" />
-    <ClCompile Include="Surse lucrate la seminar\1054_seminar01.c" />
-    <ClCompile Include="Surse lucrate la seminar\1054_seminar02.c" />
-    <ClCompile Include="Surse lucrate la seminar\1054_seminar03.c" />
-    <ClCompile Include="Surse lucrate la seminar\1057_seminar01.c" />
-    <ClCompile Include="Surse lucrate la seminar\1057_seminar02.c" />
-    <ClCompile Include="Surse lucrate la seminar\1057_seminar03.c" />
-    <ClCompile Include="Surse lucrate la seminar\Rec_seminar02.c" />
-    <ClCompile Include="Surse lucrate la seminar\Rec_seminar03.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
